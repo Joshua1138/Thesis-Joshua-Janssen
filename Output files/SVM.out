@@ -1,0 +1,20 @@
+Validation Set Evaluation:
+              precision    recall  f1-score   support
+
+           0       1.00      0.97      0.99      3849
+           1       0.97      1.00      0.98      3625
+
+    accuracy                           0.98      7474
+   macro avg       0.98      0.99      0.98      7474
+weighted avg       0.99      0.98      0.98      7474
+
+Test Set Evaluation:
+              precision    recall  f1-score   support
+
+           0       0.92      0.97      0.94      3790
+           1       0.97      0.91      0.94      3683
+
+    accuracy                           0.94      7473
+   macro avg       0.94      0.94      0.94      7473
+weighted avg       0.94      0.94      0.94      7473
+

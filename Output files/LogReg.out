@@ -1,0 +1,21 @@
+Validation Results:
+              precision    recall  f1-score   support
+
+           0       1.00      0.96      0.97      3849
+           1       0.95      1.00      0.97      3625
+
+    accuracy                           0.97      7474
+   macro avg       0.97      0.98      0.97      7474
+weighted avg       0.98      0.97      0.97      7474
+
+Test Results:
+              precision    recall  f1-score   support
+
+           0       0.88      0.95      0.91      3790
+           1       0.95      0.87      0.90      3683
+
+    accuracy                           0.91      7473
+   macro avg       0.91      0.91      0.91      7473
+weighted avg       0.91      0.91      0.91      7473
+
+Testing confusion matrix saved as confusion_matrix_test.csv
