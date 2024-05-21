@@ -1,4 +1,5 @@
 ######    Code adapted from Intro to Machine learning classes      ################
+# code used to create graphics for the confusion matrices
 #############################     NB      #########################################
 
 import seaborn as sns
